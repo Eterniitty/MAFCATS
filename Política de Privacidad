@@ -1,0 +1,185 @@
+# Política de Privacidad de MAFCATS
+
+**Responsable:** Andres Navarro  
+**Juego:** MAFCATS  
+**Última actualización:** 7 de octubre de 2026
+
+## 1. Introducción
+
+Esta Política de Privacidad explica cómo **MAFCATS**, desarrollado y administrado por **Andres Navarro**, puede acceder, utilizar, almacenar o transmitir determinada información cuando los usuarios juegan a MAFCATS o utilizan sus integraciones con servicios de terceros, incluyendo Steam y Discord.
+
+La privacidad de los jugadores es importante para MAFCATS. El juego está diseñado para limitar la recopilación de información a aquella necesaria para proporcionar sus funciones, integraciones y características de juego.
+
+## 2. Información tratada por MAFCATS
+
+MAFCATS puede tratar determinados datos relacionados con el funcionamiento y uso del juego.
+
+Dependiendo de las funciones utilizadas y de la plataforma desde la que se ejecute MAFCATS, esta información puede incluir:
+
+- Información sobre sesiones de juego.
+- Tiempo de juego.
+- Estado o actividad actual dentro del juego.
+- Progreso y otros datos relacionados con la partida.
+- Preferencias y configuración del juego.
+- Datos necesarios para guardar o recuperar el progreso.
+- Identificadores proporcionados por plataformas como Steam cuando sean necesarios para las funciones del juego.
+- Información técnica necesaria para proporcionar determinadas características.
+
+MAFCATS no está diseñado para solicitar directamente información privada como el nombre real, dirección postal, contraseñas, datos bancarios o credenciales de acceso de Steam o Discord.
+
+## 3. Datos almacenados localmente
+
+Determinados datos de MAFCATS pueden almacenarse localmente en el dispositivo del usuario.
+
+Esto puede incluir configuraciones, preferencias, partidas guardadas, progreso u otra información necesaria para el funcionamiento del juego.
+
+La eliminación del juego, de sus archivos locales o de sus datos guardados puede provocar la eliminación de esta información dependiendo del sistema y plataforma utilizados.
+
+## 4. Steam
+
+MAFCATS se distribuye o podrá distribuirse mediante Steam y utiliza o podrá utilizar determinadas funciones proporcionadas por Steam y Steamworks.
+
+Cuando el usuario ejecuta MAFCATS mediante Steam, determinadas funciones pueden utilizar información proporcionada por Steam necesaria para identificar al jugador o proporcionar características relacionadas con el juego.
+
+Dependiendo de las funciones de Steamworks implementadas en MAFCATS, esto puede incluir un identificador de Steam y datos relacionados con el juego, como propiedad del producto, progreso, estadísticas, logros u otra información necesaria para las funciones correspondientes.
+
+MAFCATS no solicita al usuario su contraseña de Steam.
+
+Los datos tratados directamente por Steam están sujetos a las condiciones y políticas de privacidad de Valve/Steam.
+
+## 5. Discord y Discord Rich Presence
+
+MAFCATS incluye una integración con **Discord Rich Presence**.
+
+Esta función permite que Discord muestre información relacionada con la actividad del usuario en MAFCATS.
+
+La información enviada a Discord mediante Rich Presence puede incluir:
+
+- Que el usuario está jugando a MAFCATS.
+- Estado o sección actual del juego.
+- Tiempo transcurrido de la sesión.
+- Modo o actividad dentro del juego.
+- Información general relacionada con la sesión o partida.
+- Imágenes, textos o elementos asociados a MAFCATS configurados para Rich Presence.
+
+Esta información se utiliza exclusivamente para proporcionar la funcionalidad de Discord Rich Presence.
+
+## 6. Cuentas y datos de Discord
+
+La integración actual de MAFCATS con Discord Rich Presence **no requiere que el usuario inicie sesión mediante OAuth2 ni que autorice el acceso a su cuenta de Discord mediante un proceso OAuth2 de MAFCATS**.
+
+MAFCATS no está diseñado para recopilar o almacenar en servidores propios el nombre de usuario, contraseña, mensajes privados, lista de amigos, servidores, correo electrónico ni credenciales de la cuenta de Discord del usuario.
+
+Determinada información técnica relacionada con la integración puede ser procesada localmente en el dispositivo del usuario o por el propio cliente de Discord para proporcionar Rich Presence.
+
+El tratamiento realizado posteriormente por Discord está sujeto a la Política de Privacidad y condiciones de Discord.
+
+## 7. Finalidad de los datos
+
+La información tratada por MAFCATS puede utilizarse para:
+
+- Permitir el funcionamiento normal del juego.
+- Mantener el progreso y configuración del jugador.
+- Proporcionar funciones relacionadas con Steam.
+- Proporcionar Discord Rich Presence.
+- Mostrar correctamente el estado de la partida.
+- Mantener y mejorar el funcionamiento técnico de MAFCATS.
+- Diagnosticar errores cuando sea necesario.
+
+MAFCATS no vende datos personales de sus jugadores.
+
+Los datos obtenidos mediante integraciones de terceros no se utilizarán para crear perfiles publicitarios de los usuarios.
+
+## 8. Compartición de información
+
+MAFCATS no vende información personal de los usuarios.
+
+Determinados datos pueden transmitirse a servicios externos únicamente cuando sea necesario para utilizar sus respectivas funciones.
+
+Actualmente, estos servicios pueden incluir:
+
+**Steam / Valve Corporation:** para funciones relacionadas con Steam y Steamworks.
+
+**Discord:** para proporcionar Discord Rich Presence y mostrar la actividad de MAFCATS en Discord.
+
+Cada servicio externo puede tratar información de acuerdo con sus propias condiciones y políticas de privacidad.
+
+## 9. Conservación de datos
+
+MAFCATS procurará conservar únicamente los datos necesarios para proporcionar las funciones correspondientes.
+
+Los datos almacenados exclusivamente de forma local permanecerán en el dispositivo del usuario mientras los archivos correspondientes continúen existiendo.
+
+Cuando una función dependa de Steam, Discord u otro proveedor externo, la conservación de información realizada por dicho proveedor estará regulada por sus propias políticas.
+
+Si en futuras versiones MAFCATS incorpora servidores propios, cuentas de usuario, bases de datos en línea u otros sistemas que almacenen información adicional, esta Política de Privacidad será actualizada para explicar qué información se almacena y durante cuánto tiempo.
+
+## 10. Seguridad
+
+Se adoptarán medidas razonables para proteger cualquier información tratada directamente por MAFCATS frente al acceso, modificación, divulgación o destrucción no autorizados.
+
+Sin embargo, ningún sistema informático o servicio conectado a Internet puede garantizar una seguridad absoluta.
+
+MAFCATS nunca solicitará al usuario su contraseña de Steam o Discord.
+
+## 11. Menores de edad
+
+Las funciones proporcionadas por servicios externos, incluyendo Steam y Discord, están sujetas a los requisitos de edad y condiciones establecidos por dichos proveedores y por la legislación aplicable.
+
+MAFCATS no pretende utilizar sus integraciones para recopilar deliberadamente información personal de menores en incumplimiento de la legislación aplicable.
+
+## 12. Derechos de los usuarios
+
+Dependiendo del país o región del usuario, este puede disponer de derechos relacionados con sus datos personales, incluyendo derechos de acceso, corrección, eliminación, limitación u oposición al tratamiento.
+
+Cuando MAFCATS mantenga información personal directamente asociada al usuario, este podrá ponerse en contacto con el responsable de MAFCATS para solicitar información o ejercer los derechos que le correspondan conforme a la legislación aplicable.
+
+Si los datos son tratados exclusivamente por Steam, Discord u otro servicio independiente, determinadas solicitudes deberán realizarse directamente ante dicho proveedor.
+
+## 13. Eliminación de datos
+
+Cuando los datos sean almacenados únicamente de forma local por MAFCATS, el usuario podrá eliminarlos mediante la eliminación de los archivos correspondientes, datos guardados o instalación del juego, según corresponda.
+
+Actualmente, MAFCATS no mantiene deliberadamente una base de datos propia destinada a almacenar perfiles de cuentas de Discord obtenidos mediante Discord Rich Presence.
+
+Si un usuario considera que MAFCATS mantiene información personal relacionada con él y desea solicitar su eliminación, podrá contactar con el responsable mediante el canal de contacto indicado en esta Política.
+
+## 14. Servicios de terceros
+
+MAFCATS depende de determinados servicios y tecnologías de terceros. Estos proveedores mantienen sus propias políticas de privacidad y condiciones.
+
+El usuario debería consultar dichas políticas cuando utilice sus servicios.
+
+Entre los principales servicios relacionados con MAFCATS se encuentran:
+
+- Steam / Steamworks.
+- Discord / Discord Rich Presence.
+- Godot Engine como tecnología utilizada para desarrollar el juego.
+
+El uso de Godot como motor de desarrollo no implica por sí mismo que Andres Navarro reciba información personal de los usuarios.
+
+## 15. Cambios en esta Política de Privacidad
+
+Esta Política de Privacidad podrá actualizarse cuando MAFCATS incorpore nuevas funciones, plataformas, servicios en línea, sistemas de cuentas o cambios en sus integraciones con Steam o Discord.
+
+Cuando se realicen cambios importantes, se actualizará la fecha indicada al comienzo de este documento.
+
+Se recomienda revisar periódicamente esta Política de Privacidad.
+
+## 16. Responsable y contacto
+
+El responsable de MAFCATS y del tratamiento de los datos realizado directamente por el juego es:
+
+**Andres Navarro**  
+**Proyecto:** MAFCATS  
+**Contacto:** [afsaf.childcare242@passmail.net]
+
+Las solicitudes relacionadas con privacidad, acceso o eliminación de datos pueden enviarse mediante este medio de contacto.
+
+## 17. Relación con Discord y Steam
+
+MAFCATS es un proyecto independiente.
+
+Salvo que se indique expresamente lo contrario, MAFCATS no está afiliado, patrocinado, respaldado ni administrado por Discord, Valve o Steam.
+
+Discord, Steam, Valve y sus respectivas marcas, productos y servicios pertenecen a sus correspondientes titulares.
