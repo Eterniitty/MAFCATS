@@ -1,0 +1,231 @@
+# Condiciones del Servicio de MAFCATS
+
+**Responsable y desarrollador:** Andres Navarro  
+**Proyecto:** MAFCATS  
+**Última actualización:** 7 de octubre de 2026
+
+## 1. Aceptación de las condiciones
+
+Estas Condiciones del Servicio regulan el acceso y uso de **MAFCATS**, incluyendo sus funciones, integraciones y servicios relacionados, como Steam y Discord Rich Presence.
+
+Al instalar, ejecutar o utilizar MAFCATS, el usuario acepta estas Condiciones del Servicio.
+
+Si el usuario no está de acuerdo con estas condiciones, deberá dejar de utilizar MAFCATS y sus servicios relacionados.
+
+## 2. Sobre MAFCATS
+
+MAFCATS es un videojuego independiente desarrollado por **Andres Navarro** utilizando Godot Engine.
+
+El juego puede distribuirse mediante Steam y, en el futuro, mediante otras plataformas o medios de distribución.
+
+MAFCATS puede incluir funciones relacionadas con servicios externos, entre ellas:
+
+- Steam y Steamworks.
+- Discord Rich Presence.
+- Sistemas de guardado y progreso.
+- Estadísticas y datos relacionados con las partidas.
+- Otras funciones que puedan incorporarse mediante futuras actualizaciones.
+
+## 3. Licencia de uso
+
+Al obtener legítimamente una copia de MAFCATS, se concede al usuario una licencia personal, limitada, no exclusiva y revocable para utilizar el juego para fines personales y conforme a estas condiciones.
+
+Esta licencia no supone una transferencia de propiedad sobre MAFCATS ni sobre ninguno de sus contenidos.
+
+Salvo cuando la legislación aplicable lo permita expresamente, el usuario no podrá:
+
+- Redistribuir copias no autorizadas de MAFCATS.
+- Vender, sublicenciar o explotar comercialmente copias no autorizadas del juego.
+- Utilizar recursos de MAFCATS atribuyéndose su autoría.
+- Intentar utilizar MAFCATS para realizar actividades ilegales.
+- Interferir deliberadamente con los servicios o sistemas utilizados por el juego.
+
+Las modificaciones, herramientas creadas por la comunidad y otros usos similares podrán estar sujetos a reglas adicionales si dichas funciones son permitidas oficialmente en el futuro.
+
+## 4. Acceso al juego
+
+MAFCATS está diseñado para permitir que el usuario pueda comenzar a jugar sin necesidad de crear una cuenta propia de MAFCATS, salvo que esta característica cambie en futuras versiones.
+
+Determinadas versiones o funciones pueden requerir una cuenta en una plataforma externa, como Steam.
+
+El usuario es responsable de mantener la seguridad de sus cuentas pertenecientes a servicios externos.
+
+MAFCATS nunca solicitará directamente al usuario su contraseña de Steam o Discord.
+
+## 5. Steam
+
+MAFCATS puede distribuirse mediante Steam y utilizar funciones proporcionadas por Steamworks.
+
+El uso de la versión de Steam también estará sujeto a las condiciones, políticas y requisitos establecidos por Steam y Valve.
+
+Determinadas funciones del juego pueden depender de que Steam se encuentre instalado, iniciado o disponible.
+
+MAFCATS no puede garantizar el funcionamiento permanente de servicios proporcionados por Valve o Steam.
+
+## 6. Discord Rich Presence
+
+MAFCATS utiliza **Discord Rich Presence** para permitir que los jugadores muestren información sobre su actividad en el juego mediante Discord.
+
+Esta información puede incluir:
+
+- Que el usuario está jugando a MAFCATS.
+- Tiempo de la sesión.
+- Estado actual de la partida.
+- Sección, zona o actividad actual.
+- Modo de juego.
+- Otros datos generales relacionados con la sesión.
+
+La información mostrada puede cambiar conforme se desarrollen nuevas versiones del juego.
+
+La integración actual no requiere que el jugador autorice su cuenta mediante OAuth2 de MAFCATS.
+
+MAFCATS utiliza la funcionalidad de Discord para comunicar el estado del juego al cliente de Discord correspondiente. El funcionamiento y visualización final de Rich Presence también depende de Discord y de la configuración del usuario.
+
+## 7. Privacidad y datos
+
+El tratamiento de información relacionado con MAFCATS está explicado con mayor detalle en la **Política de Privacidad de MAFCATS**.
+
+MAFCATS puede procesar información relacionada con el juego, incluyendo progreso, configuración, sesión y otros datos necesarios para proporcionar sus funciones.
+
+Determinados datos pueden almacenarse localmente en el dispositivo del usuario.
+
+MAFCATS no vende los datos personales de sus usuarios.
+
+El uso de servicios externos como Steam y Discord está sujeto además a las políticas de privacidad de sus respectivos proveedores.
+
+## 8. Conducta del usuario
+
+El usuario se compromete a utilizar MAFCATS de manera legal y responsable.
+
+No se permite utilizar MAFCATS o sus integraciones para:
+
+- Distribuir software malicioso.
+- Intentar acceder sin autorización a sistemas o servicios.
+- Explotar vulnerabilidades con fines perjudiciales.
+- Interferir deliberadamente con el funcionamiento del juego o sus servicios.
+- Suplantar a Andres Navarro, al equipo de MAFCATS o a representantes de plataformas relacionadas.
+- Utilizar MAFCATS para actividades fraudulentas o ilegales.
+- Utilizar las integraciones con Steam o Discord incumpliendo las condiciones de dichas plataformas.
+
+## 9. Propiedad intelectual
+
+Salvo que se indique expresamente lo contrario, MAFCATS y sus contenidos originales, incluyendo software, personajes, diseños, gráficos, textos, sonidos, música, nombres, elementos visuales y demás recursos originales, pertenecen a **Andres Navarro o a sus respectivos titulares o licenciantes**.
+
+Los componentes, librerías, recursos o tecnologías de terceros utilizados por MAFCATS permanecen sujetos a sus correspondientes licencias.
+
+Godot Engine y otros componentes de código abierto utilizados para desarrollar MAFCATS mantienen sus respectivas licencias y derechos.
+
+Steam, Valve, Discord y sus correspondientes marcas pertenecen a sus respectivos propietarios.
+
+## 10. Actualizaciones
+
+MAFCATS se encuentra sujeto a desarrollo y puede recibir actualizaciones.
+
+Las actualizaciones pueden:
+
+- Añadir contenido.
+- Modificar mecánicas.
+- Corregir errores.
+- Cambiar sistemas existentes.
+- Añadir o retirar integraciones.
+- Modificar compatibilidad.
+- Introducir nuevas funciones.
+
+No se garantiza que todas las características permanezcan disponibles permanentemente.
+
+## 11. Disponibilidad
+
+Se intentará mantener MAFCATS y sus funciones en condiciones adecuadas de funcionamiento.
+
+Sin embargo, no se garantiza que el juego o todos sus servicios estén disponibles permanentemente, libres de errores o compatibles con todos los dispositivos y configuraciones.
+
+Las funciones dependientes de terceros pueden dejar de funcionar temporal o permanentemente debido a cambios realizados por dichos proveedores.
+
+## 12. Servicios de terceros
+
+MAFCATS puede interactuar con servicios proporcionados por terceros, principalmente Steam y Discord.
+
+Estos servicios son administrados independientemente y poseen sus propias condiciones y políticas.
+
+Andres Navarro no controla las decisiones, interrupciones, modificaciones o eliminación de funciones realizadas por estos proveedores.
+
+## 13. Limitación de responsabilidad
+
+En la medida permitida por la legislación aplicable, MAFCATS y su desarrollador no serán responsables de daños ocasionados exclusivamente por circunstancias fuera de su control razonable, incluyendo:
+
+- Interrupciones de Steam o Discord.
+- Fallos de servicios externos.
+- Incompatibilidades causadas por modificaciones externas.
+- Uso no autorizado o contrario a estas condiciones.
+- Modificaciones no oficiales realizadas por terceros.
+- Problemas provocados por hardware, software o configuraciones ajenas a MAFCATS.
+
+Nada de esta sección pretende excluir o limitar derechos del consumidor o responsabilidades que legalmente no puedan excluirse o limitarse.
+
+## 14. Suspensión de funciones
+
+Determinadas funciones o servicios de MAFCATS podrán ser suspendidos o retirados cuando sea necesario por motivos de:
+
+- Seguridad.
+- Mantenimiento.
+- Desarrollo.
+- Problemas técnicos.
+- Cambios en plataformas externas.
+- Cumplimiento de obligaciones legales.
+- Prevención de abuso.
+
+## 15. Terminación
+
+El usuario puede dejar de utilizar MAFCATS en cualquier momento y desinstalar el juego.
+
+El acceso a determinadas funciones podrá restringirse cuando exista un incumplimiento grave de estas condiciones, cuando sea necesario proteger la seguridad de MAFCATS o cuando una plataforma externa imponga dicha restricción.
+
+## 16. Menores de edad
+
+El uso de MAFCATS deberá realizarse conforme a los requisitos de edad establecidos por la legislación aplicable y por las plataformas mediante las cuales se acceda al juego.
+
+Los servicios externos, incluyendo Steam y Discord, pueden establecer sus propios requisitos mínimos de edad.
+
+## 17. Cambios en estas condiciones
+
+Estas Condiciones del Servicio pueden modificarse cuando sea necesario debido a:
+
+- Nuevas características de MAFCATS.
+- Cambios en Steam, Discord u otros servicios.
+- Nuevas plataformas de distribución.
+- Cambios técnicos.
+- Requisitos legales.
+
+Cuando se realicen cambios relevantes, se actualizará la fecha indicada al comienzo de este documento.
+
+## 18. Política de Privacidad
+
+El uso de MAFCATS también está sujeto a su **Política de Privacidad**, que explica qué información puede procesarse y cómo se utiliza.
+
+La Política de Privacidad deberá estar disponible mediante los canales oficiales de MAFCATS.
+
+## 19. Independencia de terceros
+
+MAFCATS es un proyecto independiente.
+
+Salvo que se indique expresamente lo contrario, **MAFCATS no está afiliado, patrocinado, respaldado ni administrado por Discord, Valve, Steam o Godot Engine**.
+
+Todas las marcas comerciales y servicios mencionados pertenecen a sus respectivos titulares.
+
+## 20. Contacto
+
+Para consultas relacionadas con MAFCATS, estas Condiciones del Servicio o la Política de Privacidad:
+
+**Responsable:** Andres Navarro  
+**Proyecto:** MAFCATS  
+**Contacto:** [afsaf.childcare242@passmail.net]
+
+## 21. Disposiciones finales
+
+Si alguna disposición de estas Condiciones del Servicio fuese considerada inválida o inaplicable conforme a la legislación correspondiente, las demás disposiciones continuarán siendo aplicables en la medida permitida por la ley.
+
+Estas condiciones no pretenden limitar ningún derecho obligatorio que corresponda al usuario conforme a la legislación aplicable.
+
+---
+
+**Al instalar, ejecutar o utilizar MAFCATS y sus integraciones, el usuario reconoce haber leído y aceptado estas Condiciones del Servicio.**
